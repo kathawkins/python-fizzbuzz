@@ -11,5 +11,4 @@ def fizzbuzz(number):
             answer.append("FizzBuzz")
         else:
             answer.append(f"{current_number}")
-    
     return answer
